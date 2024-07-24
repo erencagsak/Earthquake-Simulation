@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: f286152dc732dca42b2dcf898756d179
+  productGUID: c065b63a419bd4f4bab4b8c8734cff78
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Eartquake Simulation
+  productName: Earthquake-Simulation
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -769,14 +769,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Eartquake Simulation
+  metroPackageName: Earthquake-Simulation
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Eartquake Simulation
+  metroApplicationDescription: Earthquake-Simulation
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -846,10 +846,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: b6dc5e8a-8b36-4d73-ac46-3fcafdb5a2e4
+  cloudProjectId: 37548ba5-1203-4d07-bde3-2f9ff0b781fa
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Eartquake Simulation
+  projectName: Earthquake-Simulation
   organizationId: xanteus
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
