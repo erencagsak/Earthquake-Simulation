@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6801e5b2641a1214fba9a4e896906314
+guid: 0b4018d115db611459231ebd4298743c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,38 +7,58 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Ch23_body
-    second: {fileID: 2100000, guid: 39374d3e41037db4cbb4fabbf3cb1d6d, type: 2}
+      name: Ch06_body
+    second: {fileID: 2100000, guid: ed82693c4da444e44aad4d4b2e598c79, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Ch23_hair
-    second: {fileID: 2100000, guid: 5d790107408e5944abd9ce5270feaae5, type: 2}
+      name: Ch06_body1
+    second: {fileID: 2100000, guid: 494275a5707abb94fbc319fa6a1f7055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ch06_eyelashes
+    second: {fileID: 2100000, guid: e58470a4b421bdb4781e7e5b9951c65b, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Diffuse
-    second: {fileID: 2800000, guid: 3bae5df38d58bca48a82e7fcc09b4148, type: 3}
+      name: Ch06_1001_Diffuse
+    second: {fileID: 2800000, guid: e7d1b140c35cb8e459b552f88cb35e3e, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Glossiness
-    second: {fileID: 2800000, guid: 7e5f1b7dea0d461419ab14e821dd2b1a, type: 3}
+      name: Ch06_1001_Glossiness
+    second: {fileID: 2800000, guid: 1dccb89c04e94f348ac91d9895907d39, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Normal
-    second: {fileID: 2800000, guid: ec66255be942f6047b7c8ab22c8fc199, type: 3}
+      name: Ch06_1001_Normal
+    second: {fileID: 2800000, guid: 70b33e401611e2b4e8582226ec80d215, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch23_1001_Specular
-    second: {fileID: 2800000, guid: b99d7b2741a078948a4b406263361554, type: 3}
+      name: Ch06_1001_Specular
+    second: {fileID: 2800000, guid: 02bb3d60a792e69418b5a5088b35ec72, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: Ch23_1002_Diffuse
-    second: {fileID: 2800000, guid: f76846e724b7fba4c86bc6691c0c37d0, type: 3}
+      name: Ch06_1002_Diffuse
+    second: {fileID: 2800000, guid: b7d2b7534fc56e54684f33ece19bc3be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch06_1002_Glossiness
+    second: {fileID: 2800000, guid: 0bfe0830cbec13f4cb8024988a56ef0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch06_1002_Normal
+    second: {fileID: 2800000, guid: 92978cb1bb72bf046bbbe6ff1256b5a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ch06_1002_Specular
+    second: {fileID: 2800000, guid: 28b3d9dec1eb9e1449b6cbd05683fb2d, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -59,7 +79,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -125,16 +145,16 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.015
+    globalScale: 1.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 3
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
